@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "identificacion": "0987654321",
+        "nombre": "Carlos Pérez",
+        "email": "carlos@gmail.com"
+    }
+]

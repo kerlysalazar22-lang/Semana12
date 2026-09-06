@@ -10,7 +10,7 @@
         "codigo": "101",
         "nombre": "Hamburguesa Clásica",
         "precio": 6.5,
-        "stock": 20,
+        "stock": 18,
         "categoria": "Platos Fuertes"
     }
 ]

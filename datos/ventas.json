@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "usuario_id": "0987654321",
+        "producto_codigo": "101",
+        "cantidad": 2
+    }
+]
