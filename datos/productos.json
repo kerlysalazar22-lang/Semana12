@@ -1,0 +1,16 @@
+[
+    {
+        "codigo": "001",
+        "nombre": "hamburguesa",
+        "precio": 5.5,
+        "stock": 10,
+        "categoria": "10"
+    },
+    {
+        "codigo": "101",
+        "nombre": "Hamburguesa Clásica",
+        "precio": 6.5,
+        "stock": 20,
+        "categoria": "Platos Fuertes"
+    }
+]
